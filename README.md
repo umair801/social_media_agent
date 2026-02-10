@@ -33,7 +33,7 @@ An AI-powered social media automation system that generates, schedules, and mana
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/social-media-agent.git
+git clone https://github.com/umair801/social-media-agent.git
 cd social-media-agent
 
 # Create virtual environment
@@ -284,15 +284,14 @@ MIT License - see LICENSE file for details.
 ## Support
 
 For issues and questions:
-- GitHub Issues: [Create an issue](https://github.com/yourusername/social-media-agent/issues)
-- Email: support@yourdomain.com
+- GitHub Issues: [Create an issue](https://github.com/umair801/social-media-agent/issues)
+- Email: umair@datawebify.com
 
 ## Author
 
 **Muhammad Umair**
-- PhD Student in Computational Mathematics
-- Top Rated Upwork Freelancer (100% Job Success)
-- Specialization: AI Agents, Data Science, Automation
+- Secialization: Agentic AI, Multi-Agent Systems, Automation
+- Portfolio: https://www.upwork.com/freelancers/umair801?p=2018348896976838656
 
 ## Acknowledgments
 
