@@ -1,0 +1,147 @@
+# Brand Profile Configuration
+# Customize this file for your brand/client
+
+brand_name: "Tech Innovators Inc"
+industry: "Technology / SaaS"
+
+# Brand Voice & Tone
+brand_voice: "Professional yet approachable, innovative, customer-focused"
+tone:
+  - educational
+  - inspirational
+  - thought-leadership
+
+# Brand Values
+values:
+  - innovation
+  - customer success
+  - integrity
+  - continuous improvement
+
+# Target Audience
+target_audience:
+  age_range: "25-45"
+  demographics: "B2B decision-makers, tech professionals"
+  interests:
+    - technology
+    - business growth
+    - productivity
+    - innovation
+  platforms:
+    - LinkedIn
+    - Twitter
+    - Instagram
+    - Facebook
+
+# Content Strategy
+content_pillars:
+  educational: 40  # How-to guides, tips, industry insights
+  inspirational: 20  # Success stories, motivational content
+  promotional: 20  # Product features, offers, case studies
+  engagement: 20  # Polls, questions, UGC campaigns
+
+# Posting Frequency (posts per week)
+posting_frequency:
+  LinkedIn: 5
+  Twitter: 21  # 3 per day
+  Instagram: 14  # 2 per day
+  Facebook: 7  # 1 per day
+
+# Visual Identity
+visual_identity:
+  primary_colors:
+    - "#0066CC"  # Blue
+    - "#FF6600"  # Orange
+  secondary_colors:
+    - "#333333"  # Dark Gray
+    - "#F5F5F5"  # Light Gray
+  fonts:
+    primary: "Montserrat"
+    secondary: "Open Sans"
+  logo_url: "https://example.com/logo.png"
+
+# Platform-Specific Settings
+instagram:
+  bio: "Empowering businesses with innovative tech solutions 🚀 | Follow for industry insights & growth tips"
+  profile_image: "https://example.com/instagram-profile.jpg"
+  highlight_covers: true
+  stories_frequency: "daily"
+
+linkedin:
+  tagline: "Innovation Meets Excellence"
+  company_size: "51-200"
+  focus_areas:
+    - "Technology Solutions"
+    - "Business Innovation"
+    - "Digital Transformation"
+
+twitter:
+  bio: "Innovative tech solutions for modern businesses | Sharing insights on #Technology #Innovation #Growth"
+  pinned_tweet_type: "latest_blog_post"
+
+facebook:
+  about: "Tech Innovators helps businesses leverage cutting-edge technology for sustainable growth."
+  category: "Technology Company"
+
+# Engagement Guidelines
+engagement_rules:
+  auto_reply_enabled: true
+  response_time_goal: "2 hours"
+  escalation_keywords:
+    - lawsuit
+    - refund
+    - cancel
+    - urgent
+    - complaint
+  sentiment_monitoring: true
+
+# Hashtag Strategy
+hashtag_strategy:
+  branded:
+    - "#TechInnovators"
+    - "#InnovateWithUs"
+  industry:
+    - "#TechTrends"
+    - "#DigitalTransformation"
+    - "#SaaS"
+  community:
+    - "#TechCommunity"
+    - "#StartupLife"
+
+# Analytics & Reporting
+analytics:
+  reporting_frequency: "weekly"
+  key_metrics:
+    - engagement_rate
+    - reach
+    - follower_growth
+    - click_through_rate
+    - conversions
+  benchmark_targets:
+    engagement_rate: 4.5
+    follower_growth_monthly: 10
+    click_through_rate: 2.5
+
+# Compliance & Guidelines
+compliance:
+  avoid_topics:
+    - politics
+    - controversial issues
+  required_disclaimers:
+    - "promotional_posts: Include #ad or #sponsored when required"
+  legal_review_required: false
+
+# Team & Contacts
+team:
+  social_media_manager: "manager@example.com"
+  content_creator: "content@example.com"
+  customer_support: "support@example.com"
+  escalation_contact: "escalation@example.com"
+
+# Additional Settings
+settings:
+  timezone: "America/New_York"
+  language: "en-US"
+  auto_scheduling: true
+  dark_mode_posting: false  # Avoid posting during off-hours
+  weekend_posting: true

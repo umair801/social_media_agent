@@ -1,0 +1,81 @@
+{
+  "educational_tip": {
+    "description": "Educational tip or how-to content",
+    "structure": "[Hook Question] + [Value/Tip] + [Supporting Detail] + [CTA]",
+    "max_length": 2200,
+    "platforms": ["instagram", "facebook"],
+    "example": "Want to boost your productivity? ⚡\n\nTry the 2-minute rule: If a task takes less than 2 minutes, do it immediately. This prevents small tasks from piling up and cluttering your to-do list.\n\nHow it works:\n✅ Respond to quick emails\n✅ File documents\n✅ Make short calls\n\nWhat's your favorite productivity hack? Share below! 👇"
+  },
+  
+  "thought_leadership": {
+    "description": "Expert insights and industry commentary",
+    "structure": "[Bold Statement] + [Supporting Evidence] + [Personal Insight] + [Question for Discussion]",
+    "max_length": 3000,
+    "platforms": ["linkedin"],
+    "example": "The future of work isn't remote or hybrid—it's flexible.\n\nAfter analyzing 500+ companies' return-to-office policies, here's what the data shows:\n\n• 73% of employees want location flexibility\n• Companies with flexible policies see 25% lower turnover\n• Productivity metrics remain stable or improve\n\nThe winners will be companies that focus on outcomes, not attendance.\n\nWhat's your take on the future of workplace flexibility?"
+  },
+  
+  "product_showcase": {
+    "description": "Highlighting product features or benefits",
+    "structure": "[Problem Statement] + [Solution Introduction] + [Key Features] + [Social Proof] + [CTA]",
+    "max_length": 1500,
+    "platforms": ["instagram", "facebook", "linkedin"],
+    "example": "Tired of juggling multiple tools for your social media management? 🤯\n\nIntroducing [Product]—your all-in-one solution.\n\n🎯 Features:\n• AI-powered content generation\n• Smart scheduling across platforms\n• Real-time analytics dashboard\n• Auto-engagement responses\n\n\"This tool saved me 15 hours a week!\" - Sarah M., Marketing Director\n\nTry it free for 14 days. Link in bio! 🔗"
+  },
+  
+  "engagement_poll": {
+    "description": "Poll or question to drive engagement",
+    "structure": "[Context/Setup] + [Clear Question] + [Options if applicable] + [Encouragement to Respond]",
+    "max_length": 500,
+    "platforms": ["twitter", "instagram", "linkedin"],
+    "example": "Quick poll for marketers! 📊\n\nWhat's your biggest social media challenge right now?\n\nA) Creating consistent content\nB) Growing engagement\nC) Tracking ROI\nD) Managing multiple platforms\n\nDrop your answer below! 👇"
+  },
+  
+  "success_story": {
+    "description": "Customer success story or case study",
+    "structure": "[Client Challenge] + [Solution Implemented] + [Results Achieved] + [Testimonial] + [CTA]",
+    "max_length": 2000,
+    "platforms": ["linkedin", "facebook"],
+    "example": "How [Company] increased engagement by 312% in 90 days 📈\n\nThe Challenge:\n[Company] was posting daily but saw minimal engagement. Their content wasn't resonating with their audience.\n\nOur Solution:\n✅ Audience research & persona development\n✅ Data-driven content strategy\n✅ Optimized posting schedule\n✅ A/B testing framework\n\nThe Results:\n• 312% increase in engagement\n• 45% follower growth\n• 2.3x higher click-through rates\n\n\"The team transformed our social media presence completely.\" - Jane D., CMO\n\nWant similar results? DM us to learn more! 💬"
+  },
+  
+  "behind_the_scenes": {
+    "description": "Behind-the-scenes or company culture content",
+    "structure": "[Scene Setting] + [Story/Activity] + [Team Highlight] + [Value Connection]",
+    "max_length": 1200,
+    "platforms": ["instagram", "facebook"],
+    "example": "Friday vibes at the office! 🎉\n\nOur team just wrapped up an incredible brainstorming session for next quarter's product roadmap. The energy in the room was electric! ⚡\n\nSwipe to see:\n→ Whiteboard filled with ideas\n→ The team in action\n→ Our collaborative workspace\n\nAt [Company], innovation happens when great minds collaborate. That's our secret sauce! 🚀\n\n#CompanyCulture #Innovation #TeamWork"
+  },
+  
+  "list_post": {
+    "description": "Listicle-style educational content",
+    "structure": "[Attention-Grabbing Intro] + [Numbered List Items] + [Conclusion] + [CTA]",
+    "max_length": 2200,
+    "platforms": ["instagram", "linkedin", "facebook"],
+    "example": "5 Social Media Mistakes That Are Killing Your Engagement 🚫\n\n1️⃣ Posting at the wrong times\n→ Use analytics to find when your audience is active\n\n2️⃣ Ignoring comments\n→ Respond within 2 hours to boost algorithm favorability\n\n3️⃣ Only promoting products\n→ Follow 80/20 rule: 80% value, 20% promotion\n\n4️⃣ Inconsistent branding\n→ Use templates to maintain visual consistency\n\n5️⃣ No call-to-action\n→ Always guide your audience on next steps\n\nWhich mistake have you made? No judgment! 😊\n\nSave this post for reference! 📌"
+  },
+  
+  "trending_topic": {
+    "description": "Commentary on trending industry topic",
+    "structure": "[Trend Introduction] + [Your Perspective] + [Impact Analysis] + [Actionable Takeaway]",
+    "max_length": 1500,
+    "platforms": ["twitter", "linkedin"],
+    "example": "Everyone's talking about AI in marketing, but here's what they're missing:\n\nAI doesn't replace creativity—it amplifies it.\n\nThe real power isn't in generating content. It's in:\n\n→ Analyzing what resonates with your audience\n→ Optimizing posting times for maximum reach\n→ Personalizing content at scale\n→ Freeing marketers to focus on strategy\n\nThe marketers who thrive will use AI as a copilot, not a replacement.\n\nWhat's your AI strategy? 🤖"
+  },
+  
+  "user_generated_content": {
+    "description": "Featuring customer content or testimonials",
+    "structure": "[Appreciation] + [Featured Content] + [Story/Context] + [Community Encouragement]",
+    "max_length": 1000,
+    "platforms": ["instagram", "facebook"],
+    "example": "Customer Spotlight! ⭐\n\nLook what @customer_username created using our platform! This is absolutely incredible! 🙌\n\nSwipe to see their amazing results:\n→ Before/After comparison\n→ The process\n→ Final outcome\n\nThis is exactly why we do what we do—empowering creators like you to bring their visions to life.\n\nTag us in your work for a chance to be featured! 📸\n\n#UserSpotlight #CustomerSuccess #CommunityLove"
+  },
+  
+  "quick_tip": {
+    "description": "Short, actionable tip (Twitter-optimized)",
+    "structure": "[Tip Statement] + [Brief Explanation] + [Hashtag]",
+    "max_length": 280,
+    "platforms": ["twitter"],
+    "example": "Social media tip: Post when your audience is active, not when it's convenient for you.\n\nCheck your analytics to find peak engagement times. Most brands see best results on:\n\nM-F: 10am-3pm\nWed: 12-1pm (peak)\n\n#SocialMediaTips #MarketingStrategy"
+  }
+}
